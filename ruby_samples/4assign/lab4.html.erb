@@ -1,0 +1,21 @@
+<html> 
+ <head> 
+ </head> 
+ <body> 
+
+ <h1>Hello, <%= user %>! It's good to see you again.</h1> 
+
+ <p>The current time is <%= Time.new %>.</p> 
+
+ <p>Popular numbers today are: 
+
+ <% 6.downto(1) do |number| %> 
+
+ <strong><%= number %></strong><br /> 
+
+ <% end %> 
+
+ And so on 
+ </p>
+ </body> 
+</html> 

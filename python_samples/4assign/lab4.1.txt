@@ -1,0 +1,164 @@
+Script started on Sun Jul 20 15:54:05 2014
+[?1034hbash-3.2$ 
+bash-3.2$ sed -n 2,4p circle.py
+# NAME: Richard Tzeng
+# FILE: circle.py
+# DATE: <21014-07-20 Mon>
+bash-3.2$ 
+bash-3.2$ date
+Sun Jul 20 15:54:23 PDT 2014
+bash-3.2$ 
+bash-3.2$ python3 circle.py
+--
+Circle 1:  Circle of radius 8 at coordinates (-10, 0)
+Circle 2:  Circle of radius 8 at coordinates (10, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (-10, 0)
+Circle 2:  Circle of radius 8 at coordinates (10, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (-9, 0)
+Circle 2:  Circle of radius 8 at coordinates (11, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (-7, 0)
+Circle 2:  Circle of radius 8 at coordinates (10, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (-4, 0)
+Circle 2:  Circle of radius 8 at coordinates (12, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (0, 0)
+Circle 2:  Circle of radius 8 at coordinates (10, 0)
+Collision?  True
+--
+Circle 1:  Circle of radius 8 at coordinates (5, 0)
+Circle 2:  Circle of radius 8 at coordinates (13, 0)
+Collision?  True
+--
+Circle 1:  Circle of radius 8 at coordinates (11, 0)
+Circle 2:  Circle of radius 8 at coordinates (10, 0)
+Collision?  True
+--
+Circle 1:  Circle of radius 8 at coordinates (18, 0)
+Circle 2:  Circle of radius 8 at coordinates (14, 0)
+Collision?  True
+--
+Circle 1:  Circle of radius 8 at coordinates (26, 0)
+Circle 2:  Circle of radius 8 at coordinates (10, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (35, 0)
+Circle 2:  Circle of radius 8 at coordinates (15, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (45, 0)
+Circle 2:  Circle of radius 8 at coordinates (30, 0)
+Collision?  True
+--
+Circle 1:  Circle of radius 8 at coordinates (56, 0)
+Circle 2:  Circle of radius 8 at coordinates (56, 0)
+Collision?  True
+--
+Circle 1:  Circle of radius 8 at coordinates (68, 0)
+Circle 2:  Circle of radius 8 at coordinates (94, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (81, 0)
+Circle 2:  Circle of radius 8 at coordinates (145, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (95, 0)
+Circle 2:  Circle of radius 8 at coordinates (210, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (110, 0)
+Circle 2:  Circle of radius 8 at coordinates (290, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (126, 0)
+Circle 2:  Circle of radius 8 at coordinates (386, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (143, 0)
+Circle 2:  Circle of radius 8 at coordinates (499, 0)
+Collision?  None
+--
+Circle 1:  Circle of radius 8 at coordinates (161, 0)
+Circle 2:  Circle of radius 8 at coordinates (630, 0)
+Collision?  None
+bash-3.2$ 
+bash-3.2$ 
+bash-3.2$ sed -n 2,4p lab4.1.py
+# NAME: Richard Tzeng
+# FILE: lab4.1.py
+# DATE: <21014-07-20 Mon>
+bash-3.2$ 
+bash-3.2$ date
+Sun Jul 20 15:54:40 PDT 2014
+bash-3.2$ 
+bash-3.2$ python3 lab4.1.py
+Circle of radius 20 at coordinates (2, 3)
+Circle of radius 20 at coordinates (1, -1)
+Collision: True
+Circle of radius 20 at coordinates (4, 6)
+Circle of radius 20 at coordinates (2, -2)
+Collision: True
+Circle of radius 20 at coordinates (6, 9)
+Circle of radius 20 at coordinates (3, -3)
+Collision: True
+Circle of radius 20 at coordinates (8, 12)
+Circle of radius 20 at coordinates (4, -4)
+Collision: True
+Circle of radius 20 at coordinates (10, 15)
+Circle of radius 20 at coordinates (5, -5)
+Collision: True
+Circle of radius 20 at coordinates (12, 18)
+Circle of radius 20 at coordinates (6, -6)
+Collision: True
+Circle of radius 20 at coordinates (14, 21)
+Circle of radius 20 at coordinates (7, -7)
+Collision: True
+Circle of radius 20 at coordinates (16, 24)
+Circle of radius 20 at coordinates (8, -8)
+Collision: True
+Circle of radius 20 at coordinates (18, 27)
+Circle of radius 20 at coordinates (9, -9)
+Collision: True
+Circle of radius 20 at coordinates (20, 30)
+Circle of radius 20 at coordinates (10, -10)
+Collision: None
+Circle of radius 20 at coordinates (22, 33)
+Circle of radius 20 at coordinates (11, -11)
+Collision: None
+Circle of radius 20 at coordinates (24, 36)
+Circle of radius 20 at coordinates (12, -12)
+Collision: None
+Circle of radius 20 at coordinates (26, 39)
+Circle of radius 20 at coordinates (13, -13)
+Collision: None
+Circle of radius 20 at coordinates (28, 42)
+Circle of radius 20 at coordinates (14, -14)
+Collision: None
+Circle of radius 20 at coordinates (30, 45)
+Circle of radius 20 at coordinates (15, -15)
+Collision: None
+Circle of radius 20 at coordinates (32, 48)
+Circle of radius 20 at coordinates (16, -16)
+Collision: None
+Circle of radius 20 at coordinates (34, 51)
+Circle of radius 20 at coordinates (17, -17)
+Collision: None
+Circle of radius 20 at coordinates (36, 54)
+Circle of radius 20 at coordinates (18, -18)
+Collision: None
+Circle of radius 20 at coordinates (38, 57)
+Circle of radius 20 at coordinates (19, -19)
+Collision: None
+bash-3.2$ 
+bash-3.2$ exit
+exit
+
+Script done on Sun Jul 20 15:54:49 2014

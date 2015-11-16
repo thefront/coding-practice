@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+
+<!-- every valid HTML document needs a title -->
+<title>%{title}</title>
+
+<!--
+<style>#wrap {max-width:43em;padding:0 2em;white-space:pre-wrap}</style>
+<link rel="stylesheet" href="/~rtzeng/assets/stylesheets/ccsf.css">
+-->
+
+<!-- for IE -->
+<!--[if lt IE 9]>
+<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+</head>
+<body>
+<div id="wrap">
+<div id="main">
+
+<!-- the page header HTML can be in a separate file -->
+<header>%{banner}</header>
+
+<article><!-- start article -->
+
+<!-- body content -->
+%{content}
+<!-- end body content -->
+
+</article><!-- end article -->
+</div><!-- end of #main -->
+

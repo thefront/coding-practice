@@ -1,0 +1,9 @@
+Script started on Tue 24 Jun 2014 08:28:37 PM PDT
+[rtzeng@hills pythonCS131a]$ 
+[rtzeng@hills pythonCS131a]$ ./lab1.1.py
+Hello, World!
+[rtzeng@hills pythonCS131a]$ 
+[rtzeng@hills pythonCS131a]$ exit
+exit
+
+Script done on Tue 24 Jun 2014 08:28:53 PM PDT
