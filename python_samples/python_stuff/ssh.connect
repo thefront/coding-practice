@@ -1,0 +1,15 @@
+#!/usr/bin/python
+
+import paramiko
+import os
+import sys
+
+ssh = paramiko.SSHClient()
+from scp import SCPClient
+ssh.set_missing_host_key_policy(paramiko.AutoAddPolicy())
+
+ssh.connect(sys.argv[1], username="insertuserhere", password="passsssssssworrrrddd")
+
+scp = SCPClient(ssh.get_transport())
+scp.put('fileOZeros.bin','/tmp/')
+
