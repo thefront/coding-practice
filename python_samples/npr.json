@@ -1,0 +1,767 @@
+{
+    "version": "0.94",
+    "list": {
+        "teaser": {
+            "$text": "The latest health and science news. Updates on medicine, healthy living, nutrition, drugs, diet, and advances in science and technology. Subscribe to the Health & Science podcast."
+        },
+        "miniTeaser": {},
+        "link": [
+            {
+                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                "type": "api"
+            },
+            {
+                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007",
+                "type": "html"
+            }
+        ],
+        "story": [
+            {
+                "miniTeaser": {},
+                "subtitle": {},
+                "show": [
+                    {
+                        "segNum": {
+                            "$text": "6"
+                        },
+                        "program": {
+                            "code": "ATC",
+                            "$text": "All Things Considered",
+                            "id": "2"
+                        },
+                        "showDate": {
+                            "$text": "Wed, 23 Dec 2015 16:00:00 -0500"
+                        }
+                    }
+                ],
+                "text": {
+                    "paragraph": [
+                        {
+                            "num": "1",
+                            "$text": "Austin Martin, a junior at Brown University, stands in front of an eighth-grade class at Community Preparatory School in Providence, R.I. He's here to test out the website he developed, which he hopes will help junior and senior high school students learn the vocabulary they'll need for their college entrance exams."
+                        },
+                        {
+                            "num": "2",
+                            "$text": "He starts the class by connecting his laptop to a projector, and then he veers off the traditional path, away from rote memorization \u2014 and toward rap music."
+                        },
+                        {
+                            "num": "3",
+                            "$text": "A short song clip plays over speakers: \"So rude that your mentality is distorting your reality.\""
+                        },
+                        {
+                            "num": "4",
+                            "$text": "Martin zeroes in on the word \"distort.\""
+                        },
+                        {
+                            "num": "5",
+                            "$text": "\"OK, so in this example,\" he says to the class, \"When they say 'so rude that your mentality is distorting this reality,' what do you think he means?\""
+                        },
+                        {
+                            "num": "6",
+                            "$text": "The program is called Rhymes with Reason. He's using rap lyrics to teach vocabulary, in the hope that some will connect more to popular music than they do to static words on a page."
+                        },
+                        {
+                            "num": "7",
+                            "$text": "This undergrad isn't the first to think of using hip-hop in the classroom to engage students. The Hip-Hop Education Center, founded by New York University professor Martha Diaz, lists hundreds of programs that use hip-hop culture as a teaching tool."
+                        },
+                        {
+                            "num": "8",
+                            "$text": "But Martin says aggregating his lessons on a website for kids to use anywhere \u2014 at home, on their phone \u2014 sets his program apart."
+                        },
+                        {
+                            "num": "9",
+                            "$text": "Hip-hop, Martin says, is full of words students might need to know for the SAT or ACT. He's amassed more than 450 examples so far."
+                        },
+                        {
+                            "num": "10",
+                            "$text": "\"I just got out of high school. My sister is in high school,\" says the 20-year-old Martin. \"I'm in tune with that climate.\""
+                        },
+                        {
+                            "num": "11",
+                            "$text": "In the classroom, most of the kids seem to understand that \"distort\" means to alter or change."
+                        },
+                        {
+                            "num": "12",
+                            "$text": "And then, like many English teachers, he asks the class to use the word in context. But not in a sentence. He wants them to write it in their own rap lyrics."
+                        },
+                        {
+                            "num": "13",
+                            "$text": "Here's what student Tiffanie Pichardo comes up with: \"You're always distorting my brain, making me insane, the way you cross your arms and give me attitude, why don't you go somewhere and don't be rude.\""
+                        },
+                        {
+                            "num": "14",
+                            "$text": "Micah Walker takes a different approach: \"I went to court, but my opponent started to distort what I was saying, in fact they started fraying, from what that was the truth, and as a result, I came out with a broken tooth, but it's OK 'cause it's my turn to step into the booth.\""
+                        },
+                        {
+                            "num": "15",
+                            "$text": "Grace Jordan raises her hand with another rhyme: \"People think that I'm no good but their views are distorted. I'm the best; they're wrong is what I retorted. Their minds are warped; they're not in their right mind, 'cause smart people know I am the best. I'm the best that people can find.\""
+                        },
+                        {
+                            "num": "16",
+                            "$text": "After the exercise on \"distort,\" the class moves on to \"meticulous,\" \"complex\" and \"domain.\""
+                        },
+                        {
+                            "num": "17",
+                            "$text": "They keep rapping right up until the bell rings \u2014 some want to keep going."
+                        },
+                        {
+                            "num": "18",
+                            "$text": "Eddie Moy\u00e9, the teacher in this eighth-grade class, says this enthusiasm isn't unusual; the kids took to Rhymes with Reason right away."
+                        },
+                        {
+                            "num": "19",
+                            "$text": "\"They were saying, 'This is so much fun!' \" he says. \"They were saying, 'Not to dis you, Mr. Moy\u00e9, but we like what Austin is doing with us,' and I said, 'I don't have a problem with that.' \""
+                        },
+                        {
+                            "num": "20",
+                            "$text": "Although he's in an Ivy League college now, Martin says that he struggled in school. He was smart, but he says the things he was really intellectually curious about weren't valued in the classroom."
+                        },
+                        {
+                            "num": "21",
+                            "$text": "\"I knew every last thing there was to know about hip-hop and basketball,\" he says. He could tell you incredibly detailed facts about rappers and NBA players."
+                        },
+                        {
+                            "num": "22",
+                            "$text": "\"My favorite NBA player was Allen Iverson,\" says Martin. \"I could tell you what points-per-game average he had in 2004.\" (It was 30.7.)"
+                        },
+                        {
+                            "num": "23",
+                            "$text": "So why not tap into that enthusiasm to help kids like him, who might be turned off by traditional schoolwork."
+                        },
+                        {
+                            "num": "24",
+                            "$text": "He's hoping Rhymes with Reason will do the trick."
+                        },
+                        {
+                            "num": "25",
+                            "$text": "After the class, Martin says he's happy with how it went, particularly the way the students responded to their everyone else's lyrics \u2014 saying \"ooh\" and \"aah\" when they heard a good rhyme."
+                        },
+                        {
+                            "num": "26",
+                            "$text": "\"It's really good to have that validation in the classroom for something you generated from your own mind,\" he says."
+                        },
+                        {
+                            "num": "27",
+                            "$text": "Martin says Rhymes with Reason is still in the testing phase. It's used in only a handful of classes, and he doesn't yet have reliable data to show that it actually improves test scores or vocabulary."
+                        },
+                        {
+                            "num": "28",
+                            "$text": "But if the kids in Eddie Moy\u00e9's eighth-grade class are anything to go by, Austin Martin is on to something. [Copyright 2015 NPR]"
+                        }
+                    ]
+                },
+                "storyDate": {
+                    "$text": "Wed, 23 Dec 2015 16:07:00 -0500"
+                },
+                "keywords": {},
+                "textWithHtml": {
+                    "paragraph": [
+                        {
+                            "num": "1",
+                            "$text": "Austin Martin, a junior at Brown University, stands in front of an eighth-grade class at Community Preparatory School in Providence, R.I. He's here to test out the website he developed, which he hopes will help junior and senior high school students learn the vocabulary they'll need for their college entrance exams."
+                        },
+                        {
+                            "num": "2",
+                            "$text": "He starts the class by connecting his laptop to a projector, and then he veers off the traditional path, away from rote memorization \u2014 and toward rap music."
+                        },
+                        {
+                            "num": "3",
+                            "$text": "A short song clip plays over speakers: \"So rude that your mentality is distorting your reality.\""
+                        },
+                        {
+                            "num": "4",
+                            "$text": "Martin zeroes in on the word \"distort.\""
+                        },
+                        {
+                            "num": "5",
+                            "$text": "\"OK, so in this example,\" he says to the class, \"When they say 'so rude that your mentality is distorting this reality,' what do you think he means?\""
+                        },
+                        {
+                            "num": "6",
+                            "$text": "The program is called <a href=\"http://rhymes-with-reason.com/\">Rhymes with Reason</a>. He's using rap lyrics to teach vocabulary, in the hope that some will connect more to popular music than they do to static words on a page."
+                        },
+                        {
+                            "num": "7",
+                            "$text": "This undergrad isn't the first to think of using hip-hop in the classroom to engage students. The Hip-Hop Education Center, founded by New York University professor Martha Diaz, lists <a href=\"http://www.hiphopeducation.org/impact.html\">hundreds of programs</a> that use hip-hop culture as a teaching tool."
+                        },
+                        {
+                            "num": "8",
+                            "$text": "But Martin says aggregating his lessons on a website for kids to use anywhere \u2014 at home, on their phone \u2014 sets his program apart."
+                        },
+                        {
+                            "num": "9",
+                            "$text": "Hip-hop, Martin says, is full of words students might need to know for the SAT or ACT. He's amassed more than 450 examples so far."
+                        },
+                        {
+                            "num": "10",
+                            "$text": "\"I just got out of high school. My sister is in high school,\" says the 20-year-old Martin. \"I'm in tune with that climate.\""
+                        },
+                        {
+                            "num": "11",
+                            "$text": "In the classroom, most of the kids seem to understand that \"distort\" means to alter or change."
+                        },
+                        {
+                            "num": "12",
+                            "$text": "And then, like many English teachers, he asks the class to use the word in context. But not in a sentence. He wants them to write it in their own rap lyrics."
+                        },
+                        {
+                            "num": "13",
+                            "$text": "Here's what student Tiffanie Pichardo comes up with: \"You're always distorting my brain, making me insane, the way you cross your arms and give me attitude, why don't you go somewhere and don't be rude.\""
+                        },
+                        {
+                            "num": "14",
+                            "$text": "Micah Walker takes a different approach: \"I went to court, but my opponent started to distort what I was saying, in fact they started fraying, from what that was the truth, and as a result, I came out with a broken tooth, but it's OK 'cause it's my turn to step into the booth.\""
+                        },
+                        {
+                            "num": "15",
+                            "$text": "Grace Jordan raises her hand with another rhyme: \"People think that I'm no good but their views are distorted. I'm the best; they're wrong is what I retorted. Their minds are warped; they're not in their right mind, 'cause smart people know I am the best. I'm the best that people can find.\""
+                        },
+                        {
+                            "num": "16",
+                            "$text": "After the exercise on \"distort,\" the class moves on to \"meticulous,\" \"complex\" and \"domain.\""
+                        },
+                        {
+                            "num": "17",
+                            "$text": "They keep rapping right up until the bell rings \u2014 some want to keep going."
+                        },
+                        {
+                            "num": "18",
+                            "$text": "Eddie Moy\u00e9, the teacher in this eighth-grade class, says this enthusiasm isn't unusual; the kids took to Rhymes with Reason right away."
+                        },
+                        {
+                            "num": "19",
+                            "$text": "\"They were saying, 'This is so much fun!' \" he says. \"They were saying, 'Not to dis you, Mr. Moy\u00e9, but we like what Austin is doing with us,' and I said, 'I don't have a problem with that.' \""
+                        },
+                        {
+                            "num": "20",
+                            "$text": "Although he's in an Ivy League college now, Martin says that he struggled in school. He was smart, but he says the things he was really intellectually curious about weren't valued in the classroom."
+                        },
+                        {
+                            "num": "21",
+                            "$text": "\"I knew every last thing there was to know about hip-hop and basketball,\" he says. He could tell you incredibly detailed facts about rappers and NBA players."
+                        },
+                        {
+                            "num": "22",
+                            "$text": "\"My favorite NBA player was Allen Iverson,\" says Martin. \"I could tell you what points-per-game average he had in 2004.\" (It was 30.7.)"
+                        },
+                        {
+                            "num": "23",
+                            "$text": "So why not tap into that enthusiasm to help kids like him, who might be turned off by traditional schoolwork."
+                        },
+                        {
+                            "num": "24",
+                            "$text": "He's hoping Rhymes with Reason will do the trick."
+                        },
+                        {
+                            "num": "25",
+                            "$text": "After the class, Martin says he's happy with how it went, particularly the way the students responded to their everyone else's lyrics \u2014 saying \"ooh\" and \"aah\" when they heard a good rhyme."
+                        },
+                        {
+                            "num": "26",
+                            "$text": "\"It's really good to have that validation in the classroom for something you generated from your own mind,\" he says."
+                        },
+                        {
+                            "num": "27",
+                            "$text": "Martin says Rhymes with Reason is still in the testing phase. It's used in only a handful of classes, and he doesn't yet have reliable data to show that it actually improves test scores or vocabulary."
+                        },
+                        {
+                            "num": "28",
+                            "$text": "But if the kids in Eddie Moy\u00e9's eighth-grade class are anything to go by, Austin Martin is on to something.  <div class=\"fullattribution\">Copyright 2015 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Hip-Hop+Vocab%3A+The+Lexicon+Is+In+The+Lyrics&utme=8(APIKey)9(MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001)\"/></div>"
+                        }
+                    ]
+                },
+                "id": "458817227",
+                "fullText": {
+                    "$text": "<div class=\"storytitle\">      <h1>Hip-Hop Vocab: The Lexicon Is In The Lyrics</h1>   <input type=\"hidden\" id=\"title458817227\" value=\"Hip-Hop Vocab: The Lexicon Is In The Lyrics\" />   <input type=\"hidden\" id=\"modelShortUrl458817227\" value=\"http://n.pr/1N7hi6s\" />   <input type=\"hidden\" id=\"modelFullUrl458817227\" value=\"http://www.npr.org/sections/ed/2015/12/23/458817227/hip-hop-vocab-the-lexicon-is-in-the-lyrics\" /></div><!-- END CLASS=\"STORYTITLE\" --><div id=\"story-meta\">      <div class=\"story-meta-one\">            <div class=\"dateblock dateblock-updated\">    <time datetime=\"2015-12-23T18:35:00-05:00\">            <span class=\"updated\" aria-describedby=\"originally-published\">                <span class=\"date\">Updated December 23, 2015</span><span                    class=\"time\">6:35 PM ET</span>            </span>            <span id=\"originally-published\" class=\"originally-published\">                Published <span class=\"date\">December 23, 2015</span><span                    class=\"time\">4:07 PM ET</span>            </span>    </time></div>   </div>   <!-- END CLASS=\"STORY-META-ONE\" -->   <div class=\"story-meta-two\">            <div id=\"storybyline\" class=\"  linkLocation\">                  <div class=\"bucketwrap byline\" id=\"res459822935\" previewTitle=\"bylines\">                        <div class=\"blockBylines\">                              <div class=\"blockByline linked hasImage\">      <div class=\"bioImageWrap\">            <a class=\"\" rel=\"author\" href=\"http://www.npr.org/people/2101004/joe-palca\"  data-metrics='{\"action\":\"Click Byline\",\"category\":\"Story Metadata\"}' ><img src=\"http://media.npr.org/assets/img/2011/12/30/joepalca_21_sq-d2c70859fe667880e9dec3e85b35d001508d7d66-s300.jpg\" title=\"Joe Palca 2010\" alt=\"Joe Palca 2010\" /></a>   </div>   <!-- END CLASS=\"BIOIMAGEWRAP\" -->   <div class=\"rightContainer\">            <a class=\"nameWrap\" rel=\"author\" href=\"http://www.npr.org/people/2101004/joe-palca\"  data-metrics='{\"action\":\"Click Byline\",\"category\":\"Story Metadata\"}' ><div class=\"nameOuter\">      <div class=\"nameInner\">      Joe Palca   </div></div></a>      <div id=\"socialHandleLoc\" class=\" linkLocation\">                  <a class=\"bylineSocialHandle bylineSocialHandle-1\" href=\"https://www.facebook.com/joesbigidea\"  data-metrics='{\"action\":\"Click Social Handle\",\"category\":\"Story Metadata\"}' >Facebook</a>         <span class=\"spacer\"></span>         <a class=\"bylineSocialHandle bylineSocialHandle-5\" href=\"http://www.twitter.com/joepalca\"  data-metrics='{\"action\":\"Click Social Handle\",\"category\":\"Story Metadata\"}' >Twitter</a>         <span class=\"spacer\"></span>      </div>   </div>   <!-- END CLASS=\"RIGHTCONTAINER\" --></div>            </div>         </div>         <!-- END CLASS=\"BUCKETWRAP BYLINE\" ID=\"RES459822935\" PREVIEWTITLE=\"BYLINES\" -->      </div>   </div>   <!-- END CLASS=\"STORY-META-TWO\" --></div><!-- END ID=\"STORY-META\" --><div id=\"primaryaudio\" class=\"storylocation linkLocation\">      <div id=\"res460851206\" class=\"bucketwrap primary resaudio  clearfix large\">            <div class=\"player-core\">                  <div class=\"listenicon\">                        <a class=\"listen\" href=\"http://www.npr.org/templates/player/mediaPlayer.html?t=1&islist=false&id=458817227&m=460851206&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Play Audio\",\"label\":\"20151223_atc_hip-hop_vocab_the_lexicon_is_in_the_lyrics.mp3\"}'  data-player='{\"storyId\":\"458817227\",\"mediaId\":\"460851206\",\"dateString\":null,\"action\":1,\"type\":1,\"mode\":0}'></a>         </div>         <!-- END CLASS=\"LISTENICON\" -->         <div id=\"avcontent460851206\" class=\"avcontent listen shorttitle\">                        <h3><a href=\"http://www.npr.org/templates/player/mediaPlayer.html?t=1&islist=false&id=458817227&m=460851206&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Play Audio\",\"label\":\"20151223_atc_hip-hop_vocab_the_lexicon_is_in_the_lyrics.mp3\"}'  data-player='{\"storyId\":\"458817227\",\"mediaId\":\"460851206\",\"dateString\":null,\"action\":1,\"type\":1,\"mode\":0}'>Listen to the Story</a></h3>            <div class=\"inner\">                              <p class=\"byline\"><a class=\"program\" href=\"http://www.npr.org/programs/all-things-considered/\">All Things Considered</a></p>               <div class=\"duration\">                                    <b id=\"durationCurrent460851206\" class=\"current\"></b>                  <b class=\"total\">4:09</b>               </div>            </div>            <!-- END CLASS=\"INNER\" -->            <b id=\"mediaTimeTotal460851206\" class=\"media-time-total\"><b id=\"mediaTimeCurrent460851206\" class=\"media-time-current\"></b><b class=\"scrubber\"></b></b>         </div>         <!-- END ID=\"AVCONTENT460851206\" CLASS=\"AVCONTENT LISTEN SHORTTITLE\" -->      </div>      <!-- END CLASS=\"PLAYER-CORE\" -->      <ul class=\"audiotools has-embed\">                  <li class=\"playlist\"><a class=\"add\" href=\"http://www.npr.org/templates/player/mediaPlayer.html?action=2&t=1&islist=false&id=458817227&m=460851206&d=null\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Add Audio To Playlist\",\"label\":\"20151223_atc_hip-hop_vocab_the_lexicon_is_in_the_lyrics.mp3\"}'  data-player='{\"storyId\":\"458817227\",\"mediaId\":\"460851206\",\"dateString\":null,\"action\":2,\"type\":1,\"mode\":0}'><span>Playlist</span></a></li>         <li><a class=\"download\" href=\"http://pd.npr.org/anon.npr-mp3/npr/atc/2015/12/20151223_atc_hip-hop_vocab_the_lexicon_is_in_the_lyrics.mp3\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Download Audio\",\"label\":\"20151223_atc_hip-hop_vocab_the_lexicon_is_in_the_lyrics.mp3\"}' ><span>Download</span></a></li>         <li><a class=\"embed\" href=\"#\" data-metrics='{\"category\":\"Secondary Audio\",\"action\":\"Embed\",\"label\":\"20151223_atc_hip-hop_vocab_the_lexicon_is_in_the_lyrics.mp3\"}' ><span>Embed</span></a><div class=\"audio-embed-modal\">      <label class=\"embed-label\">Embed<input class=\"embed-url embed-url-no-touch\" readonly value=\"<iframe src=\"http://www.npr.org/player/embed/458817227/460851206\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\"></iframe>\" /></label>   <button class=\"embed-close\" aria-label=\"close embed overlay\">Close embed overlay</button>   <b class=\"embed-url embed-url-touch\"><code><b class=\"punctuation\"><</b>iframe src=\"http://www.npr.org/player/embed/458817227/460851206\" width=\"100%\" height=\"290\" frameborder=\"0\" scrolling=\"no\" title=\"NPR embedded audio player\"></iframe></code></b></div></li>         <li><a class=\"trans\" href=\"/templates/transcript/transcript.php?storyId=458817227\" data-metrics='{\"category\":\"Segment Audio\",\"action\":\"Click transcript\",\"label\":\"458817227\"}' ><span>Transcript</span></a></li>      </ul>   </div>   <!-- END ID=\"RES460851206\" CLASS=\"BUCKETWRAP PRIMARY RESAUDIO  CLEARFIX LARGE\" --></div><div id=\"storytext\" class=\"storytext storylocation linkLocation\">      <div id=\"res460024655\" class=\"bucketwrap image large\" previewTitle=\"Young student raps in front of a chalkboard in class\">            <div class=\"imagewrap\" data-crop-type=\"\">    <img src=\"http://media.npr.org/assets/img/2015/12/16/chriskindred-finalnpr_slide-e1408458f9360ee7b685063726675017fc8c3a20-s1000.jpeg\" title=\"Young student raps in front of a chalkboard in class\" alt=\"Young student raps in front of a chalkboard in class\" /></div><div class=\"credit-caption\">    <div class=\"caption\">    </div>    <span class=\"credit\">                Chris Kindred for NPR            </span></div>   </div>   <p>Austin Martin, a junior at Brown University, stands in front of an eighth-grade class at Community Preparatory School in Providence, R.I. He's here to test out the website he developed, which he hopes will help junior and senior high school students learn the vocabulary they'll need for their college entrance exams.</p>   <p>He starts the class by connecting his laptop to a projector, and then he veers off the traditional path, away from rote memorization \u2014 and toward rap music.</p>   <p>A short song clip plays over speakers: \"So rude that your mentality is distorting your reality.\"</p>   <p>Martin zeroes in on the word \"distort.\"</p>   <p>\"OK, so in this example,\" he says to the class, \"When they say 'so rude that your mentality is distorting this reality,' what do you think he means?\"</p>   <p>The program is called <a href=\"http://rhymes-with-reason.com/\">Rhymes with Reason</a>. He's using rap lyrics to teach vocabulary, in the hope that some will connect more to popular music than they do to static words on a page.</p>   <p>This undergrad isn't the first to think of using hip-hop in the classroom to engage students. The Hip-Hop Education Center, founded by New York University professor Martha Diaz, lists <a href=\"http://www.hiphopeducation.org/impact.html\">hundreds of programs</a> that use hip-hop culture as a teaching tool.</p>   <p>But Martin says aggregating his lessons on a website for kids to use anywhere \u2014 at home, on their phone \u2014 sets his program apart.</p>   <p>Hip-hop, Martin says, is full of words students might need to know for the SAT or ACT. He's amassed more than 450 examples so far.</p>   <p>\"I just got out of high school. My sister is in high school,\" says the 20-year-old Martin. \"I'm in tune with that climate.\"</p>   <p>In the classroom, most of the kids seem to understand that \"distort\" means to alter or change.</p>   <p>And then, like many English teachers, he asks the class to use the word in context. But not in a sentence. He wants them to write it in their own rap lyrics.</p>   <p>Here's what student Tiffanie Pichardo comes up with: \"You're always distorting my brain, making me insane, the way you cross your arms and give me attitude, why don't you go somewhere and don't be rude.\"</p>   <p>Micah Walker takes a different approach: \"I went to court, but my opponent started to distort what I was saying, in fact they started fraying, from what that was the truth, and as a result, I came out with a broken tooth, but it's OK 'cause it's my turn to step into the booth.\"</p>   <p>Grace Jordan raises her hand with another rhyme: \"People think that I'm no good but their views are distorted. I'm the best; they're wrong is what I retorted. Their minds are warped; they're not in their right mind, 'cause smart people know I am the best. I'm the best that people can find.\"</p>   <p>After the exercise on \"distort,\" the class moves on to \"meticulous,\" \"complex\" and \"domain.\"</p>   <p>They keep rapping right up until the bell rings \u2014 some want to keep going.</p>   <p>Eddie Moy\u00e9, the teacher in this eighth-grade class, says this enthusiasm isn't unusual; the kids took to Rhymes with Reason right away.</p>   <p>\"They were saying, 'This is so much fun!' \" he says. \"They were saying, 'Not to dis you, Mr. Moy\u00e9, but we like what Austin is doing with us,' and I said, 'I don't have a problem with that.' \"</p>   <p>Although he's in an Ivy League college now, Martin says that he struggled in school. He was smart, but he says the things he was really intellectually curious about weren't valued in the classroom.</p>   <p>\"I knew every last thing there was to know about hip-hop and basketball,\" he says. He could tell you incredibly detailed facts about rappers and NBA players.</p>   <p>\"My favorite NBA player was Allen Iverson,\" says Martin. \"I could tell you what points-per-game average he had in 2004.\" (It was 30.7.)</p>   <p>So why not tap into that enthusiasm to help kids like him, who might be turned off by traditional schoolwork.</p>   <p>He's hoping Rhymes with Reason will do the trick.</p>   <p>After the class, Martin says he's happy with how it went, particularly the way the students responded to their everyone else's lyrics \u2014 saying \"ooh\" and \"aah\" when they heard a good rhyme.</p>   <p>\"It's really good to have that validation in the classroom for something you generated from your own mind,\" he says.</p>   <p>Martin says Rhymes with Reason is still in the testing phase. It's used in only a handful of classes, and he doesn't yet have reliable data to show that it actually improves test scores or vocabulary.</p>   <p>But if the kids in Eddie Moy\u00e9's eighth-grade class are anything to go by, Austin Martin is on to something.</p></div><div class=\"fullattribution\">Copyright 2015 NPR. To see more, visit <a href=\"http://www.npr.org/\">NPR</a>.<img src=\"http://www.google-analytics.com/__utm.gif?utmac=UA-5828686-4&utmdt=Hip-Hop+Vocab%3A+The+Lexicon+Is+In+The+Lyrics&utme=8(APIKey)9(MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001)\"/></div>"
+                },
+                "byline": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/people/2101004/joe-palca?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=2101004&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "id": "459822934",
+                        "name": {
+                            "personId": "2101004",
+                            "$text": "Joe Palca"
+                        }
+                    }
+                ],
+                "pubDate": {
+                    "$text": "Wed, 23 Dec 2015 18:35:00 -0500"
+                },
+                "title": {
+                    "$text": "Hip-Hop Vocab: The Lexicon Is In The Lyrics"
+                },
+                "image": [
+                    {
+                        "src": "http://media.npr.org/assets/img/2015/12/16/chriskindred-finalnpr_slide-e1408458f9360ee7b685063726675017fc8c3a20.jpeg?s=12",
+                        "enlargement": {
+                            "src": "http://media.npr.org/assets/img/2015/12/16/chriskindred-finalnpr_slide-e1408458f9360ee7b685063726675017fc8c3a20.jpeg",
+                            "caption": {}
+                        },
+                        "copyright": {},
+                        "producer": {},
+                        "title": {
+                            "$text": "Young student raps in front of a chalkboard in class"
+                        },
+                        "hasBorder": "false",
+                        "crop": [
+                            {
+                                "src": "http://media.npr.org/assets/img/2015/12/16/chriskindred-finalnpr-158124b4d5e979cc31292c596635cf9c81d357db.jpeg",
+                                "type": "standard",
+                                "width": "2664",
+                                "height": "1998"
+                            },
+                            {
+                                "src": "http://media.npr.org/assets/img/2015/12/16/chriskindred-finalnpr_sq-f1c616d23eb8df7bcb003bcad46b4bd25c8e961f.jpeg",
+                                "type": "square",
+                                "width": "960",
+                                "height": "959"
+                            },
+                            {
+                                "src": "http://media.npr.org/assets/img/2015/12/16/chriskindred-finalnpr_wide-4a67d4a79f9582aac5d2e381b7f207e6f9afc5ec.jpeg",
+                                "type": "wide",
+                                "width": "3000",
+                                "height": "1687"
+                            },
+                            {
+                                "src": "http://media.npr.org/assets/img/2015/12/16/chriskindred-finalnpr_slide-e1408458f9360ee7b685063726675017fc8c3a20.jpeg",
+                                "type": "enlargement",
+                                "width": "2997",
+                                "height": "1998"
+                            },
+                            {
+                                "src": "http://media.npr.org/assets/img/2015/12/16/chriskindred-finalnpr_slide-e1408458f9360ee7b685063726675017fc8c3a20.jpeg",
+                                "type": "slide",
+                                "width": "2997",
+                                "primary": "true",
+                                "height": "1998"
+                            }
+                        ],
+                        "width": "200",
+                        "link": {
+                            "url": ""
+                        },
+                        "provider": {
+                            "url": "",
+                            "$text": "Chris Kindred for NPR"
+                        },
+                        "caption": {},
+                        "type": "primary",
+                        "id": "460024655"
+                    }
+                ],
+                "audioRunByDate": {
+                    "$text": "Sun, 31 Jan 2016 01:00:00 -0500"
+                },
+                "thumbnail": {
+                    "large": {
+                        "$text": "http://media.npr.org/assets/img/2015/12/16/chriskindred-finalnpr_sq-f1c616d23eb8df7bcb003bcad46b4bd25c8e961f.jpeg?s=11"
+                    },
+                    "medium": {
+                        "$text": "http://media.npr.org/assets/img/2015/12/16/chriskindred-finalnpr_sq-f1c616d23eb8df7bcb003bcad46b4bd25c8e961f.jpeg?s=13"
+                    },
+                    "provider": {
+                        "$text": "Chris Kindred for NPR"
+                    }
+                },
+                "parent": [
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/education/?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=1013&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "primaryTopic",
+                        "id": "1013",
+                        "title": {
+                            "$text": "Education"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/282620378/mpx-break?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=282620378&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "collection",
+                        "id": "282620378",
+                        "title": {
+                            "$text": "MPX Break"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/all-things-considered/2015/12/23/460789928?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=460789928&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "programEpisode",
+                        "id": "460789928",
+                        "title": {
+                            "$text": "All Things Considered for December 23, 2015"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/news/?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=1001&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "topic",
+                        "id": "1001",
+                        "title": {
+                            "$text": "News"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=1002&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "topic",
+                        "id": "1002",
+                        "title": {
+                            "$text": "Home Page Top Stories"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/191676894/most-popular?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=191676894&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "collection",
+                        "id": "191676894",
+                        "title": {
+                            "$text": "Most Popular"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/434975886/npr-stories-for-apple-news?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=434975886&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "collection",
+                        "id": "434975886",
+                        "title": {
+                            "$text": "NPR Stories For Apple News"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/ed/312828583/learning-tech?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=312828583&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "category",
+                        "id": "312828583",
+                        "title": {
+                            "$text": "Learning & Tech"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/ed/312828523/k-12?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=312828523&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "category",
+                        "id": "312828523",
+                        "title": {
+                            "$text": "K-12"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/ed/?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=311911180&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "title": {
+                            "$text": "NPR Ed"
+                        },
+                        "type": "blog",
+                        "id": "311911180",
+                        "slug": "true"
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/series/156490415/joes-big-idea?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=156490415&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "series",
+                        "id": "156490415",
+                        "title": {
+                            "$text": "Joe's Big Idea"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/humans/?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=1129&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "topic",
+                        "id": "1129",
+                        "title": {
+                            "$text": "Humans"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/digital-life/?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=1049&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "topic",
+                        "id": "1049",
+                        "title": {
+                            "$text": "Digital Life"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/education/?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=1013&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "topic",
+                        "id": "1013",
+                        "title": {
+                            "$text": "Education"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/science/?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=1007&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "topic",
+                        "id": "1007",
+                        "title": {
+                            "$text": "Science"
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/sections/us/?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=1003&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "topic",
+                        "id": "1003",
+                        "title": {
+                            "$text": "U.S."
+                        }
+                    },
+                    {
+                        "link": [
+                            {
+                                "$text": "http://www.npr.org/programs/all-things-considered/?ft=nprml&f=1007",
+                                "type": "html"
+                            },
+                            {
+                                "$text": "http://api.npr.org/query?id=2&meta=inherit&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                                "type": "api"
+                            }
+                        ],
+                        "type": "program",
+                        "id": "2",
+                        "title": {
+                            "$text": "All Things Considered"
+                        }
+                    }
+                ],
+                "priorityKeywords": {},
+                "lastModifiedDate": {
+                    "$text": "Wed, 23 Dec 2015 16:40:14 -0500"
+                },
+                "teaser": {
+                    "$text": "College student Austin Martin has created a website that uses rap lyrics to teach vocabulary to middle and high school students."
+                },
+                "link": [
+                    {
+                        "$text": "http://www.npr.org/sections/ed/2015/12/23/458817227/hip-hop-vocab-the-lexicon-is-in-the-lyrics?ft=nprml&f=1007",
+                        "type": "html"
+                    },
+                    {
+                        "$text": "http://api.npr.org/query?id=458817227&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                        "type": "api"
+                    },
+                    {
+                        "$text": "http://n.pr/1N7hgeZ",
+                        "type": "short"
+                    }
+                ],
+                "transcript": {
+                    "link": {
+                        "$text": "http://api.npr.org/transcript?id=458817227&apiKey=MDEwNjQyNzU3MDEzNTY3MTI3MzM5ZjUxNg001",
+                        "type": "api"
+                    }
+                },
+                "slug": {
+                    "$text": "NPR Ed"
+                },
+                "shortTitle": {},
+                "organization": [
+                    {
+                        "orgAbbr": "NPR",
+                        "website": {
+                            "$text": "http://www.npr.org/"
+                        },
+                        "orgId": "1",
+                        "name": {
+                            "$text": "NPR"
+                        }
+                    }
+                ],
+                "audio": [
+                    {
+                        "rightsHolder": {},
+                        "description": {},
+                        "stream": {
+                            "active": "false"
+                        },
+                        "format": {
+                            "hlsOnDemand": {
+                                "$text": "http://hls.npr.org/nprhls//npr/atc/2015/12/20151223_atc_hip-hop_vocab_the_lexicon_is_in_the_lyrics/master.m3u8"
+                            },
+                            "wm": {
+                                "$text": "http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=460851206&type=1&mtype=WM&orgId=1&topicId=1013&aggIds=156490415&d=249&p=2&story=458817227&t=progseg&e=460789928&seg=6&ft=nprml&f=1007"
+                            },
+                            "mediastream": {
+                                "$text": "rtmp://flash.npr.org/ondemand/mp3:anon.npr-mp3/npr/atc/2015/12/20151223_atc_hip-hop_vocab_the_lexicon_is_in_the_lyrics.mp3"
+                            },
+                            "mp3": [
+                                {
+                                    "$text": "http://api.npr.org/m3u/1460851206-a0fd99.m3u?orgId=1&topicId=1013&aggIds=156490415&d=249&p=2&story=458817227&t=progseg&e=460789928&seg=6&ft=nprml&f=1007",
+                                    "type": "m3u"
+                                }
+                            ],
+                            "mp4": {
+                                "$text": "http://pd.npr.org/npr-mp4/npr/atc/2015/12/20151223_atc_hip-hop_vocab_the_lexicon_is_in_the_lyrics.mp4?orgId=1&topicId=1013&aggIds=156490415&d=249&p=2&story=458817227&t=progseg&e=460789928&seg=6&ft=nprml&f=1007"
+                            }
+                        },
+                        "region": {
+                            "$text": "all"
+                        },
+                        "title": {
+                            "$text": "Listen to the Story"
+                        },
+                        "duration": {
+                            "$text": "249"
+                        },
+                        "type": "primary",
+                        "id": "460851206",
+                        "permissions": {
+                            "download": {
+                                "allow": "true"
+                            },
+                            "embed": {
+                                "allow": "true"
+                            },
+                            "stream": {
+                                "allow": "true"
+                            }
+                        }
+                    }
+                ]
+            }
+        ],
+        "title": {
+            "$text": "NPR Topics: Science"
+        }
+    }
+}
