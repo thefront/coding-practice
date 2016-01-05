@@ -1,3 +1,4 @@
+// from Khan Academy
 var swap = function(array, firstIndex, secondIndex) {
     var temp = array[firstIndex];
     array[firstIndex] = array[secondIndex];

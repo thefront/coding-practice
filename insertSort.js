@@ -1,3 +1,4 @@
+// from Khan Academy
 var insert = function(array, rightIndex, value) {
     var i;
     for (i = rightIndex; (i >= 0) && (array[i] > value); i--) {
